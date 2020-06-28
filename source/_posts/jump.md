@@ -14,4 +14,6 @@ MADE: Tobey Tang , Fu Qinqing
 
 ![1454487105813683_big.jpg](https://i.loli.net/2020/06/28/i8HnrK6waXxyz1v.jpg)
 
+![timg _1_.jpg](https://i.loli.net/2020/06/28/xfAepvrkDhBXdLG.jpg)
+
 地面作战，制高点是山头；立体作战，制高点在空中。空军“动于九天之上”，是天之骄子。作为一支高科技军种，空军一出现就折转了平面战争的演进曲线，迅速发展成一支战略性打击力量。21世纪是空天世纪，空天领域已成为国际战略竞争的新的制高点。
