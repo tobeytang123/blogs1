@@ -6,8 +6,8 @@ tags: ['P5.js','Cooperative work']
 cover_index: /assets/fengsuo1.jpg
 cover_detail: /assets/feng-.jpg
 ---
-**我是空降兵**
-
+***我是空降兵***
+一款辅助孩子完成蓝天梦的小游戏
 MADE: Tobey Tang , Fu Qinqing
 
 
