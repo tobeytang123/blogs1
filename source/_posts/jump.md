@@ -43,6 +43,9 @@ cover_detail: /assets/feng-.jpg
 <div  align="center">
 <img src="/assets/timg3.jpg">
 </div>
-<br>
+<br>  
+
 **玩法：**
+
+❀STEP1❀：
 
