@@ -45,7 +45,7 @@ cover_detail: /assets/feng-.jpg
 </div>
 <br>  
 
-**玩法：**
+***玩法：***
 
-❀STEP1❀：
+✈ STEP1 ：向下 下面
 
