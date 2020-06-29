@@ -1,6 +1,6 @@
 ---
 title: Lingling ancient city
-date: 2020-06-18 09:15:00
+date: 2019-07-30
 subtitle: Lingling ancient city, also known as Yongzhou ancient city, is an ancient city built after two thousand years.
 cover_index: /assets/gu-.jpg
 tags: ['Hometown','Culture']
@@ -50,5 +50,3 @@ tags: ['Hometown','Culture']
 <br>
 <br> 
 
-
-<img src="/assets/lu1-.jpg">
