@@ -13,7 +13,26 @@ cover_index: /assets/feng.jpg
 我们一家趁着暑气正盛，举家到庐山避暑。一路上发现了美景、美食、美人，甚好。
 
 <br>
+<br>
 
 *☀ DAY 1: 庐山山顶美景*
 
 <img src="/assets/lu2.jpg">
+
+<br>
+
+*☀ DAY 1: 三叠泉下*
+
+<img src="/assets/lu3.jpg">
+
+<br>
+
+*☀ DAY 2: 庐山老别墅*
+
+<img src="/assets/lu4.jpg">
+
+<br>
+
+*☀ DAY 2: 庐山唯一小镇夜景*
+
+<img src="/assets/lu1.jpg">
