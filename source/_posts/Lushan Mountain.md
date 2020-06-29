@@ -14,5 +14,5 @@ cover_index: /assets/feng.jpg
 
 
 
-*☀ 古街夜景*
-<img src="/assets/lu1-.jpg">
+*☀ 庐山山顶美景*
+<img src="/assets/lu2.jpg">
