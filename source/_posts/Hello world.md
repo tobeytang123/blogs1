@@ -5,6 +5,5 @@ subtitle: About me
 cover_index: /assets/mefengsuo.jpg
 ---
 
-<div  align="center">
+
 <img src="/assets/me1.jpg">
-</div>
