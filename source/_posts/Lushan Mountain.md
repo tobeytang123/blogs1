@@ -17,7 +17,7 @@ cover_index: /assets/feng.jpg
 
 *☀ DAY 1: 庐山山顶美景*
 
-<img src="/assets/lu2-.jpg">
+<img src="/assets/lu2.jpg">
 
 <br>
 
