@@ -3,8 +3,7 @@ title: Dribs And Drabs
 subtitle: Three years of college life, rich and colorful
 date: 2020-06-22
 tags: ['life']
-cover_index: /assets/fengsuo1.jpg
-cover_detail: /assets/feng-.jpg
+cover_index: /assets/xuefeng.jpg
 ---
 
 *☀ 秋*
