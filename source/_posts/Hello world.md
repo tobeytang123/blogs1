@@ -15,7 +15,7 @@ cover_index: /assets/mefengsuo.jpg
 
 ♨ 对于美食也有自己的执着
 
-这就是我，这就是我的blog，记录一切想要记住的
+***这就是我，这就是我的blog，记录一切想要记住的***
 
 
 <img src="/assets/me1--.jpg">
