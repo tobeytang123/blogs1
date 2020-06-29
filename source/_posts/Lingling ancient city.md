@@ -50,8 +50,5 @@ tags: ['Hometown','Culture']
 <br>
 <br> 
 
-<div  align="center">
+
 <img src="/assets/lu1-.jpg">
-</div>
-<br>
-<br> 
