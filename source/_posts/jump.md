@@ -85,10 +85,5 @@ cover_detail: /assets/feng-.jpg
 
 ***试玩 ☺ ：***
 
-<p class="codepen" data-height="536" data-theme-id="light" data-default-tab="result" data-user="tobeytang123" data-slug-hash="ExPmYYz" style="height: 536px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExPmYYz">
-  <span>See the Pen < a href="https://codepen.io/tobeytang123/pen/ExPmYYz">
-  ExPmYYz</ a> by tobeytang123 (< a href="https://codepen.io/tobeytang123">@tobeytang123</ a>)
-  on < a href="https://codepen.io">CodePen</ a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+1
 <br>
