@@ -42,7 +42,7 @@ cover_index: /assets/gu-.jpg
 柳子街，又称唐街，全长300米，街宽四米。街中用青石铺设，两边用河卵石筑铺，两边木板铺面，古色古香。街道两旁存有大量民国时期建筑，其中又以商铺为主，基本为木质结构建筑。游人入此，仿佛步入唐代，别有一番情趣。
 
 <div  align="center">
-<img src="/assets/gu1.jpg">
+<img src="/assets/gu4.jpg">
 </div>
 <br>
 <br> 
