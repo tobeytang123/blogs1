@@ -21,20 +21,19 @@ cover_index: /assets/feng.jpg
 不识庐山真面目，只缘身在此山中。
 
 <img src="/assets/lu2.jpg">
-
-<br>
+<br>  
 
 *☀ DAY 1: 三叠泉下*
 
 <img src="/assets/lu3.jpg">
 
-<br>
+<br>  
 
 *☀ DAY 2: 庐山老别墅*
 
 <img src="/assets/lu4.jpg">
 
-<br>
+<br>  
 
 *☀ DAY 2: 庐山牯岭小镇夜景*
 
