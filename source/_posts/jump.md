@@ -47,7 +47,7 @@ cover_detail: /assets/feng-.jpg
 
 ***玩法 ☺ ：***
 
-**✈ STEP1 ：**点击进入游戏主页  ☞  点击右下方"开始游戏"  ☞  开始游戏
+**✈ STEP1 ：**点击进入游戏主页  ☞  点击右下方“开始游戏”  ☞  开始游戏
 
             游戏失败后可以跳过姿势训练  ☞  点击右边上方"跳过姿势训练"  ☞  开启救援任务
 
@@ -55,11 +55,11 @@ cover_detail: /assets/feng-.jpg
 **✈ STEP2 ：**进入姿势训练模块  ☞  ♢要看清界面文字提醒哦♢  ☞  在右侧柜子里拖动姿势模块  ☞  将姿势模块正确拼接
 
 
-**✈ STEP3 ：**（ 模拟空降兵日复一日的日常训练 ） ☞  进入"姿势训练中。。。"界面  ☞  等待
+**✈ STEP3 ：**（ 模拟空降兵日复一日的日常训练 ） ☞  进入“姿势训练中。。。”界面  ☞  等待
 
 **✈ STEP4 ：**地震声效响起，画面抖动  ☞  模拟地震场景  ☞  点击界面
 
-**✈ STEP5 ：**加载任务背景  ☞  点击"接受任务"  ☞  进入救援模块
+**✈ STEP5 ：**加载任务背景  ☞  点击“接受任务”  ☞  进入救援模块
 
 **✈ STEP6 ：**空降准备第一步即为观察天气  ☞  等待勘测进度条  ☞  勘测天气结束准备空降  ☞  点击“准备”
 
@@ -73,3 +73,14 @@ cover_detail: /assets/feng-.jpg
 **✈ STEP9 ：**场景一： 主伞能够自动开启  ☞  等待进度条完成  ☞  点击画面选择降落地点  ☞  ♢要看清界面文字提醒哦♢
 
             场景二： 主伞自动开启失败  ☞  点击红色拉环开启备伞  ☞  降落中  ☞  点击画面选择降落地点  ☞  ♢要看清界面文字提醒哦♢
+
+**✈ STEP10 ：**选择安全降落地区  ☞  降落成功  ☞  降落后百姓欢迎  ☞  任务完成，游戏成功
+
+            选择错误降落区域  ☞  游戏结束  ☞  刷新界面重新开始
+
+<p class="codepen" data-height="536" data-theme-id="light" data-default-tab="result" data-user="tobeytang123" data-slug-hash="ExPmYYz" style="height: 536px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExPmYYz">
+  <span>See the Pen < a href="https://codepen.io/tobeytang123/pen/ExPmYYz">
+  ExPmYYz</ a> by tobeytang123 (< a href="https://codepen.io/tobeytang123">@tobeytang123</ a>)
+  on < a href="https://codepen.io">CodePen</ a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
