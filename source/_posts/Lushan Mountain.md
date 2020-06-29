@@ -32,7 +32,7 @@ cover_index: /assets/feng.jpg
 
 *☀ DAY 2: 庐山老别墅*
 
-<img src="/assets/lu4.jpg">  
+<img src="/assets/lu4.jpg">  <br>
 
 <br>  
 
