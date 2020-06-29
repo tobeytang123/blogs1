@@ -1,7 +1,7 @@
 ---
 title: From the Sky to Earth
 subtitle: On children's ideological and political education games
-date: 2020-06-27 09:00:00
+date: 2020-06-23
 tags: ['P5.js','Cooperative work']
 cover_index: /assets/fengsuo1.jpg
 cover_detail: /assets/feng-.jpg
