@@ -17,6 +17,9 @@ cover_index: /assets/feng.jpg
 
 *☀ DAY 1: 庐山山顶美景*
 
+横看成岭侧成峰，远近高低各不同。
+不识庐山真面目，只缘身在此山中。
+
 <img src="/assets/lu2.jpg">
 
 <br>
@@ -33,6 +36,6 @@ cover_index: /assets/feng.jpg
 
 <br>
 
-*☀ DAY 2: 庐山唯一小镇夜景*
+*☀ DAY 2: 庐山牯岭小镇夜景*
 
 <img src="/assets/lu1.jpg">
