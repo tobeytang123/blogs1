@@ -2,6 +2,9 @@
 title: Hello World
 date: 2020-06-18 09:15:00
 subtitle: About me
+cover_index: /assets/mefengsuo.jpg
 ---
 
-![pose11.png](https://i.loli.net/2020/06/18/mZI4T5uEvacLwst.png)
+<div  align="center">
+<img src="/assets/me1.jpg">
+</div>
