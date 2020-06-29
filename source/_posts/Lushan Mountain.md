@@ -20,18 +20,20 @@ cover_index: /assets/feng.jpg
 横看成岭侧成峰，远近高低各不同。
 不识庐山真面目，只缘身在此山中。
 
-<img src="/assets/lu2.jpg">  
-<br>  
-  
+<img src="/assets/lu2.jpg">  <br>  
+<br>
+
 *☀ DAY 1: 三叠泉下*
 
-<img src="/assets/lu3.jpg">
-<br>  
+古人描绘曰：“上级如飘云拖练，中级如碎石摧冰，下级如玉龙走潭。极为壮观，撼人魂魄。
+
+<img src="/assets/lu3.jpg">  <br>  
+<br>
 
 *☀ DAY 2: 庐山老别墅*
 
-<img src="/assets/lu4.jpg">
-<br>  
+<img src="/assets/lu4.jpg">  <br>  
+<br>
 
 *☀ DAY 2: 庐山牯岭小镇夜景*
 
