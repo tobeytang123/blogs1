@@ -12,8 +12,6 @@ cover_index: /assets/defeng.jpg
 <br>
 本篇介绍我家乡的两道经典美食，永州名菜，也是我的最爱。
 <br>
-<br>
-<br>
 
 ***☀ 国宴***
 
@@ -61,4 +59,4 @@ cover_index: /assets/defeng.jpg
 4、加放佐料盖煮，出锅时糊上鸭血，淋以少量芝麻油即可。
 
 <img src="/assets/de3.jpg">  <br>  
-<br
+<br>
