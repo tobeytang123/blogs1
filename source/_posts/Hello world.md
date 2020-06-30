@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2020-06-18 09:15:00
+date: 2017-06-18
 subtitle: About me
 cover_index: /assets/mefengsuo.jpg
 ---
