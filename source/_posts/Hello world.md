@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2000-06-18
-subtitle: About me
+subtitle: About me.
 cover_index: /assets/mefengsuo.jpg
 ---
 
